@@ -29,15 +29,6 @@ This project allows users to create bank accounts, deposit/withdraw money, gener
 
 ---
 
-## 📂 Project Structure
-
-Banking-Management-System
-│
-├── BankingManagement.py # Main program
-├── otp_verification.py # OTP generation and email verification
-├── greeting.py # Email greeting sender
-├── details.txt # Stores exported user details
-└── README.md
 
 
 
